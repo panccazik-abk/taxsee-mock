@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.db
+data/*.db
+lab/
+v3.log
+sresp.log
+vresp.log
+.venv/
+.env
